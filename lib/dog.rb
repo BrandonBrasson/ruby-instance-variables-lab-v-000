@@ -1,6 +1,4 @@
-def dog_name kik end
 
-end 
 
 
   class Dog
